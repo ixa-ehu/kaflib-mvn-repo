@@ -1,4 +1,4 @@
-- Maven dependency of the KAF version of kaflib:
+Maven dependency of the KAF version of kaflib:
 
 <dependency>
   <groupId>ixa.kaflib</groupId>
@@ -7,7 +7,7 @@
 </dependency>
 
 
-- Maven dependency of the NAF version of kaflib:
+Maven dependency of the NAF version of kaflib:
 
 <dependency>
   <groupId>ixa.kaflib</groupId>
