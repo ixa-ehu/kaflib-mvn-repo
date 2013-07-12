@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>ixa.kaflib</groupId>
+  <artifactId>kaflib-naf</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20130712.132314</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20130712132314</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0-20130712.132314-1</value>
+        <updated>20130712132314</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0-20130712.132314-1</value>
+        <updated>20130712132314</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>javadoc</classifier>
+        <extension>jar</extension>
+        <value>1.0-20130712.132314-1</value>
+        <updated>20130712132314</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
